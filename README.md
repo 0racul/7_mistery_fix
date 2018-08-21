@@ -1,23 +1,21 @@
-# Решатель квадратных уравнений
+# Quadratic equation
+The code tests the quadratic equation 
 
-[TODO. Здесь будет описание проекта]
+# How to use
 
-# Как использовать
+open the project and unittest tests.py
+# How to run
 
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа. Нужен пример кода демонстрирующий импорт модуля и использование функции.]
+Needed python interpreter 3.5 onboard, as well as math and unittest libraries
 
-# Как запустить
-
-Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
-
-Запуск на Linux:
+Linux-like run:
 
 ```bash
-python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
+python tests.py # 
 ```
 
-Запуск на Windows происходит аналогично.
+Windows-like run - the same
 
-# Цели проекта
+# Project goals
 
-Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
+[DEVMAN.org](https://devman.org)
