@@ -7,6 +7,8 @@ open the project and unittest tests.py
 # How to run
 
 Needed python interpreter 3.5 onboard, as well as math and unittest libraries
+for using as imported function do "from quadratic_equation import get_roots", in which get_roots(a,b,c) will be your
+variables
 
 Linux-like run:
 

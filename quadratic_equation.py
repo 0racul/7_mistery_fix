@@ -16,11 +16,9 @@ def get_roots(a, b, c):
     elif discriminant == 0:
 
         root2 = None
-
         return root1, root2
 
     else:
 
         root2 = (-b + sqrt(discriminant)) / (2 * a)
-
         return root1, root2
